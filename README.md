@@ -10,12 +10,12 @@
 
 ## Files description
 
-* **/data:** MNIST dataset
-* **/libs:** Third party library
-* **/logs:** Training log, open with TensorBoard
-* **/models:** Model parameters for each stage of training
-* **/pics:** Pictures used in this doc
-* **/raw_pic:** Visualization of MNIST, open with TensorBoard
+* **data/:** MNIST dataset
+* **libs/:** Third party library
+* **logs/:** Training log, open with TensorBoard
+* **models/:** Model parameters for each stage of training
+* **pics/:** Pictures used in this doc
+* **raw_pic/:** Visualization of MNIST, open with TensorBoard
 * **dataset_mnist.py:** Read and build local MNIST dataset (Not used)
 * **network.py:** Build neural network model
 * **train.py:** Training the model
